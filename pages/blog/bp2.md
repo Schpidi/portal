@@ -1,4 +1,3 @@
-
 ---
 date: 2025-01-01
 title: BP2
@@ -11,11 +10,7 @@ image: https://esa-earthcode.github.io/portal-assets/blog/Living_Planet_Symposiu
 ## BP2
 *Published: 01.01.2025*
 
-Text content
+Just some nice text
 
-## Section A
-Text content
-
-## Section B
-Text content
-        
+## Deadline
+always good to know        
